@@ -20,9 +20,9 @@ localhost:8080
 
 7. Gehe den Installations-Wizard durch
 
-**Titel der Website:** Blog von VORNAME NACHNAME
-**Benutzername:** Nickname
-**Passwort:** Ein Passwort das du dir merken kannst
+**Titel der Website:** Blog von VORNAME NACHNAME  
+**Benutzername:** Nickname  
+**Passwort:** Ein Passwort das du dir merken kannst  
 **E-Mail Adresse:** Eine E-Mail Adresse
 
 8. Melde Dich an
