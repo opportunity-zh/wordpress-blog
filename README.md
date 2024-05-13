@@ -28,3 +28,11 @@ localhost:8080
 8. Melde Dich an
 9. Mach die Updates
 10. Lösche alle Plugins (2 sollten vorinstalliert sein)
+
+## Info
+
+Wenn du dich nun anmelden möchtest, kannst du das über folgende URL tun:
+
+```bash
+localhost:8080/wp-admin
+```
